@@ -1,1 +1,1 @@
-console.log('Merge conflict!')
+console.log('changed by andrej')
