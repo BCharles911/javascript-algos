@@ -28,3 +28,4 @@ function quickSort(array) {
 }
 
 console.log(quickSort(testArray).join());
+console.log('something by andrej on git');
