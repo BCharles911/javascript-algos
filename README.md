@@ -1,0 +1,3 @@
+# Git practice
+
+> Conflict
