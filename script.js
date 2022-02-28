@@ -1,1 +1,1 @@
-console.log('Merge conflict!')
+console.log('Merge conflict! by andrej on git')
